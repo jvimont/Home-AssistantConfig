@@ -1,0 +1,72 @@
+
+liveplugwifid21fhome:
+  hide_if_away: false
+  icon:
+  mac: 6C:CA:08:C2:D2:1F
+  name: liveplugwi-fid21f.home
+  picture:
+  track: false 
+  vendor: ARRIS Group, Inc.
+
+liveboxhome:
+  hide_if_away: false
+  icon:
+  mac: B8:26:6C:BA:70:C8
+  name: livebox.home
+  picture:
+  track: false 
+  vendor: ANOV France
+
+wunshome:
+  hide_if_away: false
+  icon:
+  mac: B8:F6:B1:1B:7E:55
+  name: Macbookpro 
+  picture:
+  track: false 
+  vendor: Apple, Inc.
+
+dcodeurtvdorange1home:
+  hide_if_away: false
+  icon:
+  mac: C0:D0:44:FF:17:C1
+  name: dcodeurtvdorange-1.home
+  picture:
+  track: false
+  vendor: Sagemcom Broadband SAS
+
+nasds213home:
+  hide_if_away: false
+  icon:
+  mac: 00:11:32:16:75:25
+  name: nas-ds213.home
+  picture:
+  track: false 
+  vendor: Synology Incorporated
+
+osmchome:
+  hide_if_away: false
+  icon:
+  mac: B8:27:EB:86:7B:8F
+  name: osmc.home
+  picture:
+  track: false 
+  vendor: Raspberry Pi Foundation
+
+chromecasthome:
+  hide_if_away: false
+  icon:
+  mac: 6C:AD:F8:A4:65:3A
+  name: chromecast
+  picture:
+  track: false
+  vendor: AzureWave Technology Inc.
+
+galaxya52017home:
+  hide_if_away: false
+  icon:
+  mac: AC:AF:B9:A0:43:14
+  name: Julien
+  picture:
+  track: true
+  vendor: Samsung Electronics Co.,Ltd

@@ -17,7 +17,6 @@ forecast_tomorrow:
   name: Tomorrow
   entities:
     - sensor.tomorrow_condition
-    - sensor.today_temperature
     - sensor.tomorrow_temperature_max
     - sensor.tomorrow_temperature_min
 

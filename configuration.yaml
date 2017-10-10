@@ -63,7 +63,6 @@ sensor:
     name: Tomorrow 
     monitored_conditions:
       - weather
-      - temperature
       - temp_min
       - temp_max
   - platform: google_travel_time
