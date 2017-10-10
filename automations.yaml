@@ -1,0 +1,11 @@
+- id: 'Back Home'
+  trigger:
+    - platform: state
+      entity_id: device_tracker.galaxya52017home
+      from: 'not_home'
+      to: 'home'
+  action:
+    - service: tts.google_say
+      entity_id: media_player.chromecast
+      data:
+        message: 'Bonjour Julien'

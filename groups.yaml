@@ -1,0 +1,29 @@
+default_view:
+  view: yes
+  entities:
+    - device_tracker.galaxya52017home
+    - sensor.home_to_work
+    - sensor.work_to_home 
+    - media_player.chromecast
+
+forecast_today:
+  name: Today 
+  entities:
+    - sensor.today_condition
+    - sensor.today_temperature
+    - sensor.today_temperature_max
+    - sensor.today_temperature_min
+forecast_tomorrow:
+  name: Tomorrow
+  entities:
+    - sensor.tomorrow_condition
+    - sensor.today_temperature
+    - sensor.tomorrow_temperature_max
+    - sensor.tomorrow_temperature_min
+
+weather_view:
+  view: yes
+  name:  Meteo 
+  entities:
+    - group.forecast_today
+    - group.forecast_tomorrow

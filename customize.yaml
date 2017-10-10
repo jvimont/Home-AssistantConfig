@@ -1,0 +1,14 @@
+#####Customize devices#####
+device_tracker.liveboxhome:
+  hidden: true
+device_tracker.wunshome:
+  hidden: true
+device_tracker.liveplugwifid21fhome:
+  hidden: true
+device_tracker.nasds213home:
+  hidden: true
+device_tracker.dcodeurtvdorange1home:
+  hidden: true
+device_tracker.osmchome:
+  hidden: true
+
